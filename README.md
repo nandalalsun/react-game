@@ -1,8 +1,6 @@
 # About
 
-This repository contains the completed GameHub project as of the end of part 2 of my React course.
-
-You can find the full course at: https://codewithmosh.com
+This repository contains the completed GameHub project
 
 ## Getting Started
 
